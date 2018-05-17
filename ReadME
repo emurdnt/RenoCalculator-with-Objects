@@ -1,0 +1,3 @@
+#Renovation Calculator
+
+This is a console application that uses objective programming in order to calculate a user's possible renovation cost.This application allows the user to enter the size of the room to be renovated, how many doors and windows he/she wants, etc. The app then presents a reciept at the end with the exact breakdown of everything used in the renovation. 
